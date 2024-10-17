@@ -1,0 +1,33 @@
+//TODO AGREGAR EN EL GITIGNORE
+char wifipass = "1408923386";
+char wifipassryq = "S0p0rt3."
+char tenancyOcid[] = "ocid1.tenancy.oc1..aaaaaaaarp76s47zv4n5q6bic2f6yogefyx43x4t5vmcg4ztdenbrgzvvsra";
+char userOcid[] = "ocid1.user.oc1..aaaaaaaaxjlvfurhlxymzjewzzgwx4hvl3flccmdbozhmmvhxrzlich47eoq";
+char keyFingerprint[] = "fc:7b:86:1b:a5:44:2e:00:ac:95:37:10:27:af:f2:52";
+char* apiKey =  "MIIE6jAcBgoqhkiG9w0BDAEDMA4ECDZdrPQNHsf/AgInEASCBMg0RcwuVG31nVWL
+xjX+1Xt2AcCO8F0X/qbVgzKbw+/m4x89v+qTK5LxERQu9HOyktkAsCVFHhew9wP4
+fW2Uqm5cIQqJ/E/46bPIOFLPuPQdfp5mDHa7NdLyt+moG8dFecwwnDbCCWgDv3dT
+Aa/C04Jw26yGjum6weiMQ+lVScWsYc7pzZwtpF4T+t6pudqE93JG/QD9Eowgl7Bg
+qXViN/E5vZ5QxnUhh7TLkB20+3As7rpV1hG6G84H+PDg+Ris4OyDdmUklZAp5p1j
+8D0TV5bQnUJBdwy4oTx5s+hpn7YTOV0NwKRBnNfM/DOsYu/Ri/T5DWJzapOLi7YT
+zLydbzx2eVwtiuZ81Kn2Ok59Y+lAe7g2qFWvbJHL8BFstDZjJjohN/7OWdXImYpI
+NOKvuImzuf4638Q0MBG9m2SHZTsRaknuXrM8Nt5Ua6CM8AKBNch4knrxxIMB8wT/
+F77sbgu1DtX9YkZ4mSDsv/qUvaTvoPiJ2WxSXPq3boyprYZLK56Lcq4MuDY57tI3
+b/DeYgQpGVfdpTEPf09ZsiLaF8VzMhlGshnTqy887dS4lgha9dZbRz9a09pLXsXt
+yRS0YnRJJ0wvlr2pTFv2Cozf/o4Nq8bfB1s2nyNXTOgl82URjRACEifYqXu9cXEc
+PKCJ4HV5oS22+27CG3FM1MSQJER1keV4ll7/1rjoGs2bZ7V12Fq6q2udksm1mguH
+QCHsNcenO2M72XslRJCRxJkTqvDKuH+C/CJ+0bXNCR6PLphHFMhjYo4eQZwwruSj
+nFpxilfI9m7zSDGcNjv8Chs8dM2FzpiHRVqCWcw3tkaFHg21eH+rTnvV1Q/wX0uT
+6O+hEQHq6VuQgqfhWwFQKnKnl71lCqY6o8uv/DqcfXxgvcJqakCPGKRd2HE7jMjl
+dOe5FXaK+OgM/y6WAjURIDeUzCY9etL4UNwlWKGwFqJ9alvg1XFBQH+1G3GGLR3v
+CSxuLOPRGnUPeMAc/9/O2XlluC3gRXCZztEd47bg86QY/lDdahlQNkW7tG/SwDcR
+rpXTd+hBUteUzbiV0EcFtBcfMRRl10XjrFyJvUPGY1gJKS3xwPN4WekT1kjcXBRU
+kkW3KOwc2IyXyj93eKpQI5+lhdImkuxu3nTfU9X+Zb671GaEi5M3LT2pH0hMajjd
+JOA9NaYn4hNAXzLlOU/FnKBvBAEtp/lpON5qtyNEEqNdlGxilw5fEEMl461Ih9aZ
+TGG4+1ldXpRAdkt4fxuTYayfuHWx/oOKM9xjvgh3WlJxxFkLy8wEP735xuwQDWHN
+ezKXcDbXZn5taWKeAylaGGZaZ/zltMZ8ndxOm9TuuOwSCyfDFqN1/kvrVzm4ZC1r
+IL3H5TNZbEgnNz7MH8gswpB26wDLVz2IKDOoJe2WJYMX3a2oNHXUq+RJvrReVPdT
+pzRNMiM31uALBH0HYYYPPN+IgVrGJPTKgkdZW0PywNcZjU0/aQ0B6ZcOEEvpqgyz
+26VnbAlzlqWcTU0FJo/t41ypRNGpv4ZYAQEI4oJRG0zvRGusKBnGL1mjpGUszDKz
+woMicEMPMrJodkrx2yyqOsYqbcwjb/0F3yHCV7ita+jLA2Qrrvvmzi84LAVWKYdQ
+MuEV/5DTz60RjjfUNSM=";
