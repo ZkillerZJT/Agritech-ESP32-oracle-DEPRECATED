@@ -1,4 +1,5 @@
 # Proyecto: Conexión del NodeMCU a Oracle Cloud Infrastructure
+///////REPOSITORIO OBSOLETO, NO SE AVANZÓ MÁS EN ESTE REPOSITORIO Y NO SE ENCEUNTRA FUNCIONAL.////////
 
 Este repositorio contiene el código y la documentación necesarios para permitir que un microcontrolador NodeMCU se conecte a una base de datos en Oracle Cloud Infrastructure (OCI) y envíe datos de sensores a dicha base de datos. El objetivo es facilitar la recopilación y almacenamiento de datos de sensores en la nube, permitiendo un acceso fácil y análisis posterior.
 
